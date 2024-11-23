@@ -1,0 +1,9 @@
+.bgActive {
+    color: white;
+    background-image: radial-gradient(
+        circle 465px at -15.1% -25%,
+        rgb(17, 76, 193) 0%,
+        rgb(67, 138, 238) 49%,
+        rgb(126, 173, 244) 90.2%
+    );
+}
